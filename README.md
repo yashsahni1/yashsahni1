@@ -1,4 +1,4 @@
-(https://github.com/yashsahni1/yashsahni1/files/13191304/Gradient.Banner.pdf)
+![Gradient Banner (1)](https://github.com/yashsahni1/yashsahni1/assets/145418627/855e877e-6fcc-4607-957d-7965b6bb3b2a)
 
 
 <h1 align="center">Hi 👋, I'm yash sahni</h1>
