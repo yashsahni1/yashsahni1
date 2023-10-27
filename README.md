@@ -1,5 +1,4 @@
-![Alt Text](![file:///C:/Users/DELL/Downloads/Gradient%20Banner.pdf)
-)
+
 
 
 <h1 align="center">Hi 👋, I'm yash sahni</h1>
