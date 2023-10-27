@@ -1,3 +1,12 @@
+![Your paragraph text (4)](https://github.com/yashsahni1/yashsahni1/assets/145418627/958db480-7d71-4904-abea-65a78ecc9ce1)
+
+<h1 align="center">Hi 👋, I'm yash sahni</h1>
+<h3 align="center">I'm Java Developer, a Bsc graduate from 2020 with a passion for java development. My journey in the world of coding began with java dsa, and I've been honing my skills in these technologies. Currently, I'm delving into the fascinating realms of Java, Data Structures, Algorithms, and OOPs Concepts through Geekster. I'm a firm believer in the power of continuous learning, and I'm always eager to explore new frontiers in the world of programming. I thrive on the challenges of coding and enjoy building meaningful projects that showcase my skills. Let's code and create amazing things! ✨</h3>
+
+
+- 🌱 I’m currently learning **java dsa**
+
+- 📫 How to reach me **sahniyash96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
